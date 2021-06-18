@@ -1,5 +1,4 @@
 {
     "schedule": "monthly",
-    "ignoredFiles": [
-    ]
+    "aggressiveCompression": "true"
 }
